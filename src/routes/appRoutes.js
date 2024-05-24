@@ -5,7 +5,7 @@ import Dashboard from '../components/dashboard';
 const AppRouter = () => {
   return (
     <Routes>
-      <Route path="/home" element={<Dashboard/>} />
+      <Route path="/" element={<Dashboard/>} />
     </Routes>
   );
 };
