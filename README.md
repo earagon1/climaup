@@ -11,9 +11,13 @@ ClimaUp es una aplicación que te permite consultar el clima de una ciudad elegi
 - Interfaz intuitiva y fácil de usar.
 - Datos precisos y actualizados proporcionados por fuentes confiables.
 
+##Descargar proyecto e instalar dependencias
+- Una vez clonado el proyecto, se debera hacer npm i
+- Luego de instalar dependencias hacer npm start y abrira el navegador en local:http://localhost:3000
+
 ## Cómo usar
 
-1. Abre la aplicación ClimaUp(en caso de ser local:http://localhost:3000/home)
+1. Abre la aplicación ClimaUp(en caso de ser local:http://localhost:3000)
 2. Seleccione la ciudad elegida.
 3. Aparecera una tarjeta con la informacion de la ciudad junto con una imagen aluciva del clima.
 4. ¡Disfruta de la información detallada del clima de la ciudad seleccionada!
