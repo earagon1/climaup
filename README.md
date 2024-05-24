@@ -12,9 +12,9 @@ ClimaUp es una aplicación que te permite consultar el clima de una ciudad elegi
 - Datos precisos y actualizados proporcionados por fuentes confiables.
 
 ## Herramientas usadas 
--React js y Bootstrap
--api de clima: https://www.weatherapi.com/
--base de datos: firestore
+- React js y Bootstrap
+- Api de clima: https://www.weatherapi.com/ donde se extrae el clima y el tiempo
+- Base de datos: firestore donde estan las imagenes y los datos de las ciudades
 
 ## Descargar proyecto e instalar dependencias
 - Una vez clonado el proyecto, se debera hacer npm i
@@ -26,3 +26,6 @@ ClimaUp es una aplicación que te permite consultar el clima de una ciudad elegi
 2. Seleccione la ciudad elegida.
 3. Aparecera una tarjeta con la informacion de la ciudad junto con una imagen aluciva del clima.
 4. ¡Disfruta de la información detallada del clima de la ciudad seleccionada!
+
+## A tener en cuenta
+- la api funciona pero a la hora de actualizar hay veces que no se nota porque no esta minuto a minuto actualizada
