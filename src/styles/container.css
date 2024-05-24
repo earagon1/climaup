@@ -1,0 +1,20 @@
+.custom-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; /* Asegura que el contenido esté en una columna */
+  height: 30%; /* Ajusta este valor según tus necesidades */
+  width: 60%; /* Ajusta este valor según tus necesidades */
+  background-color: white; /* Fondo blanco para que la sombra sea visible */
+  border-radius: 15px; /* Bordes redondeados */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra */
+  margin: 30px auto 0 auto; /* Margen superior para separar del top-section */
+  padding: 20px; /* Añade padding para separar el contenido de los bordes */
+}
+
+.custom-container p {
+  font-size: 1.2em; /* Tamaño de fuente para el párrafo */
+  font-family: 'Roboto', sans-serif; /* Fuente Roboto para el párrafo */
+  text-align: center; /* Centrar el texto */
+  padding: 20px;
+}

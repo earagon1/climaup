@@ -1,0 +1,13 @@
+.selectors-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px; 
+}
+  
+.form-select {
+    width: 200px; 
+}
+
+.selectors-container .form-select {
+    width: 100%;
+}

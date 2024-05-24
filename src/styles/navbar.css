@@ -1,0 +1,14 @@
+.custom-navbar {
+  padding: 5px 15px; /* Ajusta el padding según tus necesidades */
+}
+
+.custom-navbar .navbar-brand {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5em;
+}
+
+.custom-navbar .nav-link {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2em;
+  margin-right: 15px; /* Espacio entre los enlaces */
+}
