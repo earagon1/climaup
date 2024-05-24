@@ -1,5 +1,5 @@
 .custom-navbar {
-  padding: 5px 15px; /* Ajusta el padding según tus necesidades */
+  padding: 5px 15px; 
 }
 
 .custom-navbar .navbar-brand {
@@ -10,5 +10,5 @@
 .custom-navbar .nav-link {
   font-family: 'Roboto', sans-serif;
   font-size: 1.2em;
-  margin-right: 15px; /* Espacio entre los enlaces */
+  margin-right: 15px; 
 }
