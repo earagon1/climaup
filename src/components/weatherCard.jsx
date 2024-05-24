@@ -38,7 +38,7 @@ function WeatherCard() {
 /*esta funcion hace llamada a la api y se le pasa como parametro el nombre de una ciudad*/
   const fetchData = async (city) => {
     try {
-      const response = await fetch(`http://api.weatherapi.com/v1/current.json?key=56911b35260c48a3987180731241405&q=${city}&aqi=yes`);
+      const response = await fetch(`http://api.weatherapi.com/v1/current.json?key=0ec52c73865a457987f182557242405&q=${city}&aqi=yes`);
       const data = await response.json();
       setWeatherData(data);
     } catch (err) {
@@ -70,7 +70,6 @@ const handleCityChange = async (e) => {
       console.error("Error updating weather:", error);
     }
   };
-  
   
   return (
     <div className="weather-card">
