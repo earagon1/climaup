@@ -1,6 +1,7 @@
 # ClimaUp
 
-![Logo de ClimaUp](logo.png)
+![Logo de ClimaUp](https://firebasestorage.googleapis.com/v0/b/skyscan-d7ce5.appspot.com/o/logo.png?alt=media&token=dad8498f-8d45-4735-820a-d8daa7a37616)
+
 
 ClimaUp es una aplicación que te permite consultar el clima de una ciudad elegida de manera rápida y sencilla. La informacion utilizada es traida de: https://www.weatherapi.com/
 
