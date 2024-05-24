@@ -12,10 +12,10 @@ function WeatherCard() {
 
 /*Mapeo de las imágenes según las condiciones del clima*/
   const imagenesMap = {
-    "Partly cloudy": "https://firebasestorage.googleapis.com/v0/b/pruebabd-eda2c.appspot.com/o/nublado.jpg?alt=media&token=fae36d78-cf68-4f6a-b453-8331c1dacdad",
-    "Partly Cloudy": "https://firebasestorage.googleapis.com/v0/b/pruebabd-eda2c.appspot.com/o/nublado.jpg?alt=media&token=fae36d78-cf68-4f6a-b453-8331c1dacdad",
-    "Sunny": "https://firebasestorage.googleapis.com/v0/b/pruebabd-eda2c.appspot.com/o/Blue%20sky.jpeg?alt=media&token=60a3a7f0-7e21-44e6-91ad-e2f718baabaa",
-    "Light rain": "https://firebasestorage.googleapis.com/v0/b/pruebabd-eda2c.appspot.com/o/Lluvia.gif?alt=media&token=67fd7f35-1518-4ffc-8171-d30515860df1"
+    "Partly cloudy": "https://firebasestorage.googleapis.com/v0/b/skyscan-d7ce5.appspot.com/o/nublado.jpg?alt=media&token=548c0724-8861-4acb-a7d2-62850d442652",
+    "Partly Cloudy": "https://firebasestorage.googleapis.com/v0/b/skyscan-d7ce5.appspot.com/o/nublado.jpg?alt=media&token=548c0724-8861-4acb-a7d2-62850d442652",
+    "Sunny": "https://firebasestorage.googleapis.com/v0/b/skyscan-d7ce5.appspot.com/o/Blue%20sky.jpeg?alt=media&token=cf464913-c595-4cb2-b0ec-d7975a6cb6dc",
+    "Light rain": "https://firebasestorage.googleapis.com/v0/b/skyscan-d7ce5.appspot.com/o/Lluvia.gif?alt=media&token=7358643c-61c2-4845-8a43-111b4b5e68ce"
   };
 
 /*se hace la llamada para trer las ciudades para el selector*/
