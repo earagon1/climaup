@@ -7,7 +7,7 @@ const background = () => {
   return (
     <div className="split-background">
       <div className="top-section">
-        <img src="logo.png" className="centered-logo"/>
+        <img src="https://firebasestorage.googleapis.com/v0/b/skyscan-d7ce5.appspot.com/o/logo.png?alt=media&token=dad8498f-8d45-4735-820a-d8daa7a37616" className="centered-logo"/>
       </div>
       <div className="bottom-section">
     <h1 id="acerca-de">ACERCA DE:</h1>
