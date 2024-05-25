@@ -15,7 +15,11 @@ function WeatherCard() {
     "Partly cloudy": "https://firebasestorage.googleapis.com/v0/b/skyscan-d7ce5.appspot.com/o/nublado.jpg?alt=media&token=548c0724-8861-4acb-a7d2-62850d442652",
     "Partly Cloudy": "https://firebasestorage.googleapis.com/v0/b/skyscan-d7ce5.appspot.com/o/nublado.jpg?alt=media&token=548c0724-8861-4acb-a7d2-62850d442652",
     "Sunny": "https://firebasestorage.googleapis.com/v0/b/skyscan-d7ce5.appspot.com/o/Blue%20sky.jpeg?alt=media&token=cf464913-c595-4cb2-b0ec-d7975a6cb6dc",
-    "Light rain": "https://firebasestorage.googleapis.com/v0/b/skyscan-d7ce5.appspot.com/o/Lluvia.gif?alt=media&token=7358643c-61c2-4845-8a43-111b4b5e68ce"
+    "Light rain": "https://firebasestorage.googleapis.com/v0/b/skyscan-d7ce5.appspot.com/o/Lluvia.gif?alt=media&token=7358643c-61c2-4845-8a43-111b4b5e68ce",
+    "Rain":"https://firebasestorage.googleapis.com/v0/b/skyscan-d7ce5.appspot.com/o/Lluvia.gif?alt=media&token=7358643c-61c2-4845-8a43-111b4b5e68ce",
+    "Clear":"https://firebasestorage.googleapis.com/v0/b/skyscan-d7ce5.appspot.com/o/clear.jpg?alt=media&token=724fed2f-dc15-4e72-936f-ea2a2fd582e4",
+    "Mist":"https://firebasestorage.googleapis.com/v0/b/skyscan-d7ce5.appspot.com/o/fog.jpeg?alt=media&token=601a85c3-6dcc-4b9e-bc66-a213daed208e",
+    "Fog":"https://firebasestorage.googleapis.com/v0/b/skyscan-d7ce5.appspot.com/o/fog.jpeg?alt=media&token=601a85c3-6dcc-4b9e-bc66-a213daed208e"
   };
 
 /*se hace la llamada para trer las ciudades para el selector*/
