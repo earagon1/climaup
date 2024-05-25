@@ -29,4 +29,4 @@ ClimaUp es una aplicación que te permite consultar el clima de una ciudad elegi
 
 ## A tener en cuenta
 - la api funciona pero a la hora de actualizar hay veces que no se nota porque no esta minuto a minuto actualizada
-- se realizo despliegue en firebase (https://skyscan-d7ce5.firebaseapp.com/) pero no funciona la llamada a la api debido a unos problemas que tiene firebase y weatherapi
+- se realizo despliegue en firebase (https://skyscan-d7ce5.firebaseapp.com/) pero no funciona la llamada a la api debido a unos problemas que tiene firebase y weatherapi. Debido a esto solo funciona de forma local.
